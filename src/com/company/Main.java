@@ -18,6 +18,14 @@ public class Main {
         omaro.name="ferro";
         omaro.radius=1234455;
         omaro.color="pink";
+
+   Planet2 superwomen=new Planet2();
+   superwomen.size="1223";
+   superwomen.name="wowow";
+   superwomen.color="red";
+   
+
+
     }
 
 
