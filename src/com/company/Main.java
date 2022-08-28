@@ -18,6 +18,16 @@ public class Main {
         omaro.name="ferro";
         omaro.radius=1234455;
         omaro.color="pink";
+
+   Planet1 superPlanet= new Planet1();
+   superPlanet.color="green";
+   superPlanet.name="funt";
+   superPlanet.size="large";
+
+
+
+
+
     }
 
 
